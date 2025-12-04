@@ -1,6 +1,8 @@
 # Antonio Jones' Portfolio
 
-I am a computer engineering major at CSUF, and I plan to graduate in 2029. Through the use of https://github.com/Antoniofficial, it's become a reliable tool to practice in the language C++.
+I am a computer engineering major at CSUF, and I plan to graduate in 2029. Through the use of
+## https://github.com/Antoniofficial
+it's become a reliable tool to practice in the language C++.
 
 ## Favorite CPSC 120L Labs
 
